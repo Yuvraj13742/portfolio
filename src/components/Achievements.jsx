@@ -7,7 +7,7 @@ const Achievements = () => {
             id: 1,
             title: "2nd Runner-up",
             event: "Internal Smart India Hackathon (SIH) 2025",
-            image: "/WhatsApp Image 2026-01-13 at 9.47.52 PM.jpeg",
+            image: "/WhatsApp Image 2026-01-13 at 9.47.53 PM.jpeg",
             house: "gryffindor",
             position: "2nd",
             description: "Demonstrated exceptional problem-solving skills and innovation"
@@ -16,7 +16,7 @@ const Achievements = () => {
             id: 2,
             title: "3rd Runner-up",
             event: "Hack-CSE Hackathon by SIT",
-            image: "/WhatsApp Image 2026-01-13 at 9.47.53 PM.jpeg",
+            image: "/WhatsApp Image 2026-01-13 at 9.47.52 PM.jpeg",
             house: "ravenclaw",
             position: "3rd",
             description: "Showcased technical excellence and creative solutions"
