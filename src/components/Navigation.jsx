@@ -1,11 +1,12 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Menu, X, Scroll, Home, User, Code, Send } from 'lucide-react';
+import { Menu, X, Scroll, Home, User, Code, Send, Trophy } from 'lucide-react';
 
 const navItems = [
     { name: 'Home', icon: Home, href: '#hero' },
     { name: 'About', icon: User, href: '#about' },
     { name: 'Skills', icon: Code, href: '#skills' },
+    { name: 'Achievements', icon: Trophy, href: '#achievements' },
     { name: 'Projects', icon: Scroll, href: '#projects' },
     { name: 'Contact', icon: Send, href: '#contact' },
 ];

@@ -44,7 +44,7 @@ const WandCursor = () => {
         <>
             {/* Wand Cursor */}
             <motion.div
-                className="fixed top-0 left-0 pointer-events-none z-[9999] hidden md:block"
+                className="fixed top-0 left-0 pointer-events-none z-[9999]"
                 style={{
                     x: cursorXSpring,
                     y: cursorYSpring,
@@ -91,7 +91,7 @@ const WandCursor = () => {
 
             {/* Sparkle Trail */}
             <motion.div
-                className="fixed top-0 left-0 w-1 h-1 rounded-full bg-hp-gold pointer-events-none z-[9998] hidden md:block"
+                className="fixed top-0 left-0 w-1 h-1 rounded-full bg-hp-gold pointer-events-none z-[9998]"
                 style={{
                     x: cursorXSpring,
                     y: cursorYSpring,
