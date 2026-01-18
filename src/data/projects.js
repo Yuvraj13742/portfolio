@@ -17,7 +17,7 @@ export const projectsData = [
         tech: ["Next.js", "Honu", "React Query", "Drizzle ORM", "PDF-lib", "Vercel"],
         image: "Screenshot 2026-01-18 142128.png",
         links: {
-            demo: "https://marathon-llsu.vercel.app/#",
+            demo: "https://marathon-sit-25.vercel.app/",
             github: "https://github.com/Yuvraj13742/marathon#"
         }
     },
@@ -28,7 +28,7 @@ export const projectsData = [
         tech: ["React", "Node.js", "Express.js", "Flask", "PostgreSQL"],
         image: "Screenshot 2026-01-18 142052.png",
         links: {
-            demo: "https://health-vault-git-main-13742shyuvraj-gmailcoms-projects.vercel.app/#",
+            demo: "https://health-vault-orpin.vercel.app/",
             github: "https://github.com/Yuvraj13742/health_vault#"
         }
     }
