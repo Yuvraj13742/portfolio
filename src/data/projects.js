@@ -31,5 +31,16 @@ export const projectsData = [
             demo: "https://health-vault-orpin.vercel.app/",
             github: "https://github.com/Yuvraj13742/health_vault#"
         }
+    },
+    {
+        id: 4,
+        title: "VaultX – File Security Engine",
+        description: "A high-performance hybrid system for secure file encryption and decryption. Integrates a multithreaded Java engine with a Node.js backend to ensure rapid processing of large datasets, featuring optimized I/O operations for robust directory support.",
+        tech: ["Java", "Node.js", "React", "Express.js", "Docker"],
+        image: "newproject.png",
+        links: {
+            demo: "https://vaultx-b9gt.onrender.com/",
+            github: "https://github.com/Yuvraj13742/major"
+        }
     }
 ];
